@@ -1,1 +1,27 @@
-["i.manage.microsoft.com", "manage.microsoft.com", "azure.microsoft.com", "push.apple.com", "gdmf.apple.com", "mdmenrollment.apple.com", "school.apple.com", "business.apple.com", "play.itunes.apple.com", "ws-ee-maidsvc.icloud.com", "ws.school.apple.com", "pg-bootstrap.itunes.apple.com", "cls-iosclient.itunes.apple.com", "cls-ingest.itunes.apple.com", "ppq.apple.com", "certs.apple.com", "ocsp.apple.com", "ocsp2.apple.com", "valid.apple.com", "doh.dns.apple.com", "iprofiles.apple.com", "intune.microsoft.com", "azure.com"]
+{
+    "domains": [
+        "i.manage.microsoft.com",
+        "manage.microsoft.com",
+        "azure.microsoft.com",
+        "push.apple.com",
+        "gdmf.apple.com",
+        "mdmenrollment.apple.com",
+        "school.apple.com",
+        "business.apple.com",
+        "play.itunes.apple.com",
+        "ws-ee-maidsvc.icloud.com",
+        "ws.school.apple.com",
+        "pg-bootstrap.itunes.apple.com",
+        "cls-iosclient.itunes.apple.com",
+        "cls-ingest.itunes.apple.com",
+        "ppq.apple.com",
+        "certs.apple.com",
+        "ocsp.apple.com",
+        "ocsp2.apple.com",
+        "valid.apple.com",
+        "doh.dns.apple.com",
+        "iprofiles.apple.com",
+        "intune.microsoft.com",
+        "azure.com"
+    ]
+}
